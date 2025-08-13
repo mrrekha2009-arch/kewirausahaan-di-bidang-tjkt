@@ -23,7 +23,7 @@
     --warning-color: #f39c12;
     --text-color: #333;
     --light-gray: #f8f9fa;
-    --medium-gray: #6c757d;
+    --medium-gray: #ffffff;
     --dark-gray: #343a40;
     --white: #ffffff;
     --shadow: 0 2px 10px rgba(0,0,0,0.1);
@@ -753,4 +753,5 @@ p {
 
 @keyframes spin {
     to { transform: rotate(360deg); }
+
 }
