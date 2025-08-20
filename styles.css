@@ -209,7 +209,7 @@ p {
 }
 
 .btn-primary:hover {
-    background: #2980b9;
+    background: #4a4a4a;
     transform: translateY(-2px);
     box-shadow: var(--shadow-hover);
 }
